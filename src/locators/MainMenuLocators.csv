@@ -1,2 +1,5 @@
 Name,Finder,Locator
 ActionSheets,name,Action Sheets
+Sliders,name,Sliders
+TextView,name,Text View
+Switches,name,Switches

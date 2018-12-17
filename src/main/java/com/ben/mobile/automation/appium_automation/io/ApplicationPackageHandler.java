@@ -8,7 +8,7 @@ public class ApplicationPackageHandler {
     private File f ;
     public ApplicationPackageHandler() throws IOException {
         f = new File("src");
-        PropertyFileReader propertyReader =new PropertyFileReader();
+        ConfigurationHandler propertyReader =new ConfigurationHandler();
         fileName= propertyReader.getValue(Config.APPLICATION_NAME);
     }
     public  String getApplicationAbsolutePath() {

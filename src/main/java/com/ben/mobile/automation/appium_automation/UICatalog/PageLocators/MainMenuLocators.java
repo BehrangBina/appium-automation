@@ -25,6 +25,6 @@ public class MainMenuLocators {
 		return as;
 	}
 	public enum MainMenuObjects{
-		ActionSheets
+		ActionSheets,Sliders,TextView,Switches
 	}
 }
