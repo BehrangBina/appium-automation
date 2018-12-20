@@ -34,6 +34,11 @@ public class UIElement {
 		this.locator = locator;
 		this.finder=finder;
 	}
+	 
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "Name: "+name+" Finder: "+ finder+ " Locator: "+locator;
+	}
 
 
 

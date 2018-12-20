@@ -1,6 +1,6 @@
 package com.ben.mobile.automation.appium_automation.io;
 
-public enum Config {
+public enum AppiumConfig {
 		APPIUM_SERVER_URL,
 		DEVICE_NAME,
 		APPLICATION_NAME,
