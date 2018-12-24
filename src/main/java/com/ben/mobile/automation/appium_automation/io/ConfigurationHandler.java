@@ -8,7 +8,7 @@ import java.util.Properties;
 import org.apache.log4j.Logger;
 
 public class ConfigurationHandler {
-	static Logger logger = Logger.getLogger(ConfigurationHandler.class);
+	private static Logger logger = Logger.getLogger(ConfigurationHandler.class);
 	private  String propertyFileName= "config_Android.properties";
     private Properties prop = new Properties();
     private InputStream input = null;

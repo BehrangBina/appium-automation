@@ -1,0 +1,2121 @@
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 19:13:09 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 19:13:09 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 19:13:09 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 19:13:09 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 19:14:09 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 19:14:09 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 19:14:09 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 19:14:09 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 19:14:31 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 19:14:31 DEBUG App:29 - //android.widget.TextView[@content-desc="Views"]
+2018-12-20 19:14:31 DEBUG App:32 - //android.widget.TextView[@text='Expandable Lists']
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 19:16:06 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 19:16:06 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 19:16:06 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 19:16:06 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 19:16:27 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 19:16:27 DEBUG App:29 - //android.widget.TextView[@content-desc="Views"]
+2018-12-20 19:16:27 DEBUG App:32 - //android.widget.TextView[@text='Expandable Lists']
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 19:22:38 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 19:22:38 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 19:22:38 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 19:22:38 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 19:24:08 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 19:24:08 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 19:24:08 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 19:24:08 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 19:24:34 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 19:24:34 DEBUG App:29 - //android.widget.TextView[@content-desc="Views"]
+2018-12-20 19:24:34 DEBUG App:32 - //android.widget.TextView[@text='Expandable Lists']
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 19:25:47 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 19:25:47 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 19:25:47 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 19:25:47 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 19:26:09 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 19:26:09 DEBUG App:29 - //android.widget.TextView[@content-desc="Views"]
+2018-12-20 19:26:09 DEBUG App:32 - //android.widget.TextView[@text='Expandable Lists']
+2018-12-20 19:26:44 DEBUG App:47 - true
+2018-12-20 19:26:52 INFO  App:55 - Done
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:19:47 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:19:47 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:19:47 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:19:47 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:20:06 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:20:06 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:20:06 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:20:06 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:20:21 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:21:34 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:21:34 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:21:34 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:21:38 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:21:38 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:21:38 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:22:10 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:22:18 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-20 20:22:18 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-20 20:22:18 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-20 20:22:18 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-20 20:22:18 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-20 20:22:18 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-20 20:22:18 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-20 20:22:18 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-20 20:22:18 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-20 20:22:18 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: "//android.widget.TextView[@content-desc=\""Views\""]" Locator: xpath
+2018-12-20 20:22:18 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:22:18 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:22:18 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:22:18 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:22:18 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:22:31 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:22:44 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:23:57 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:23:57 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:23:57 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:23:58 DEBUG AndroidDevice:83 - Set Timeout to: 6000s
+2018-12-20 20:24:25 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:24:26 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:24:26 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:24:26 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:24:26 DEBUG AndroidDevice:83 - Set Timeout to: 60s
+2018-12-20 20:24:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:24:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:24:48 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:24:48 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:24:48 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:24:48 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:24:49 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:24:50 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:24:51 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:24:51 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:25:23 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:25:32 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-20 20:25:32 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-20 20:25:32 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-20 20:25:32 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-20 20:25:32 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-20 20:25:32 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-20 20:25:32 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-20 20:25:32 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-20 20:25:32 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-20 20:25:32 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: "//android.widget.TextView[@content-desc=\""Views\""]" Locator: xpath
+2018-12-20 20:25:32 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:25:32 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:25:32 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:25:32 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:25:32 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:25:45 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:25:49 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:26:50 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:26:50 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:26:50 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:26:51 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:26:51 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:26:51 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:28:02 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:28:02 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:28:02 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:28:03 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:28:03 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:28:03 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:28:37 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:28:45 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-20 20:28:45 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-20 20:28:45 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-20 20:28:45 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-20 20:28:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-20 20:28:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-20 20:28:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-20 20:28:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-20 20:28:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-20 20:28:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: "//android.widget.TextView[@content-desc=\""Views\""]" Locator: xpath
+2018-12-20 20:28:45 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:28:46 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:28:46 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:28:46 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:28:50 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:28:50 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:28:50 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:29:03 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:29:31 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:32:13 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:32:13 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:32:13 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:32:14 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:32:14 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:32:14 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:33:18 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:33:18 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:33:18 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:33:19 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:33:19 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:33:19 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:33:52 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:33:56 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-20 20:33:56 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-20 20:33:56 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-20 20:33:56 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-20 20:33:56 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-20 20:33:56 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-20 20:33:56 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-20 20:33:56 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-20 20:33:56 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-20 20:33:56 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-20 20:33:56 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-20 20:33:56 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-20 20:33:56 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-20 20:33:56 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-20 20:33:56 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-20 20:34:09 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-20 20:34:12 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-20 20:34:19 DEBUG App:36 - //android.widget.TextView[@text='Expandable Lists']
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 14:24:13 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 14:24:13 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 14:24:13 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 14:24:41 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 14:24:41 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 14:24:41 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:24:42 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 14:24:42 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 14:24:42 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 14:31:08 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 14:31:08 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 14:31:08 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 14:31:08 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 14:31:23 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 14:31:23 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 14:31:23 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 14:31:23 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 14:31:23 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 14:31:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 14:31:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 14:31:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 14:31:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 14:31:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 14:31:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 14:31:23 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 14:31:23 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 14:59:48 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 14:59:48 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 14:59:48 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 14:59:48 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:00:02 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 15:00:02 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 15:00:02 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 15:00:02 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 15:00:02 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 15:00:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 15:00:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 15:00:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 15:00:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 15:00:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 15:00:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 15:00:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-21 15:00:02 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 15:00:02 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-21 15:00:02 INFO  TestCases:37 - Clicking on: Views
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:00:03 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:00:03 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:00:03 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:00:03 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:00:15 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 15:00:15 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 15:00:15 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 15:00:15 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 15:00:15 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 15:00:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 15:00:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 15:00:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 15:00:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 15:00:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 15:00:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 15:00:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-21 15:00:15 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 15:00:15 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:00:40 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:00:40 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:00:40 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:00:40 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:00:53 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 15:00:53 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 15:00:53 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 15:00:53 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 15:00:53 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 15:00:53 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 15:00:53 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 15:00:53 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 15:00:53 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 15:00:53 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 15:00:53 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 15:00:53 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-21 15:00:53 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 15:00:53 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-21 15:00:54 INFO  TestCases:37 - Clicking on: Views
+2018-12-21 15:00:55 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-21 15:00:55 INFO  TestCases:42 - tapping on: ExpandableLists
+2018-12-21 15:15:40 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:15:41 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:15:41 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:15:41 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:15:41 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:16:17 ERROR TestCases:30 - [Ljava.lang.StackTraceElement;@fa36558
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-P15U173', ip: '192.168.77.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor.lambda$2(AppiumCommandExecutor.java:243)
+	at java.util.Optional.orElseGet(Unknown Source)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:242)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:207)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:38)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:84)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:94)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:93)
+	at com.ben.mobile.automation.appium_automation.mobile.android.AndroidDevice.getAndroidDriver(AndroidDevice.java:37)
+	at com.ben.mobile.automation.appium_automation.demoApi.TestCases.<init>(TestCases.java:23)
+	at com.ben.mobile.automation.appium_automation.AndroidDemoApiTests.init(AndroidDemoApiTests.java:14)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:125)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:238)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:158)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:256)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:134)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:113)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:105)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:185)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:209)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)
+	... 36 more
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:16:17 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:16:17 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:16:17 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:16:17 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:16:19 ERROR TestCases:30 - [Ljava.lang.StackTraceElement;@747edf66
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-P15U173', ip: '192.168.77.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor.lambda$2(AppiumCommandExecutor.java:243)
+	at java.util.Optional.orElseGet(Unknown Source)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:242)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:207)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:38)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:84)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:94)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:93)
+	at com.ben.mobile.automation.appium_automation.mobile.android.AndroidDevice.getAndroidDriver(AndroidDevice.java:37)
+	at com.ben.mobile.automation.appium_automation.demoApi.TestCases.<init>(TestCases.java:23)
+	at com.ben.mobile.automation.appium_automation.AndroidDemoApiTests.init(AndroidDemoApiTests.java:14)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:125)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:238)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:158)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:256)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:134)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:113)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:105)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:185)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:209)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)
+	... 36 more
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:16:31 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:16:31 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:16:31 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:16:31 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:16:46 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 15:16:46 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 15:16:46 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 15:16:46 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 15:16:46 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 15:16:46 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 15:16:46 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 15:16:46 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 15:16:46 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 15:16:46 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 15:16:46 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 15:16:46 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-21 15:16:46 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 15:16:46 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-21 15:16:46 INFO  TestCases:37 - Clicking on: Views
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:16:47 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:16:47 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:16:47 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:16:47 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:16:59 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 15:16:59 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 15:16:59 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 15:16:59 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 15:16:59 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 15:16:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 15:16:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 15:16:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 15:16:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 15:16:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 15:16:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 15:16:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-21 15:16:59 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 15:16:59 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:17:31 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:17:31 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:17:31 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:17:31 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:17:45 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 15:17:45 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 15:17:45 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 15:17:45 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 15:17:45 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 15:17:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 15:17:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 15:17:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 15:17:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 15:17:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 15:17:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 15:17:45 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-21 15:17:45 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 15:17:45 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-21 15:17:45 INFO  TestCases:37 - Clicking on: Views
+2018-12-21 15:17:46 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-21 15:17:46 INFO  TestCases:42 - tapping on: ExpandableLists
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:26:55 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:26:55 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:26:55 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:26:55 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:27:08 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 15:27:08 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 15:27:08 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 15:27:08 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 15:27:08 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-21 15:27:08 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-21 15:27:08 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 15:27:08 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-21 15:27:08 INFO  TestCases:39 - Clicking on: Views
+2018-12-21 15:27:10 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-21 15:27:10 INFO  TestCases:44 - tapping on: ExpandableLists
+2018-12-21 15:27:11 DEBUG MainMenuLocators:23 - Searching forCustomAdapter in csv data collection
+2018-12-21 15:27:12 INFO  TestCases:50 - tapping on: CustomAdapter
+2018-12-21 15:27:13 DEBUG MainMenuLocators:23 - Searching forPeopleNames in csv data collection
+2018-12-21 15:27:13 INFO  TestCases:56 - tapping on: PeopleNames
+2018-12-21 15:27:17 DEBUG TestCases:60 - true
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-21 15:29:03 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-21 15:29:03 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-21 15:29:03 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-21 15:29:03 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-21 15:29:17 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-21 15:29:17 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-21 15:29:17 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-21 15:29:17 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-21 15:29:17 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-21 15:29:17 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-21 15:29:17 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-21 15:29:17 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-21 15:29:17 INFO  TestCases:39 - Clicking on: Views
+2018-12-21 15:29:18 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-21 15:29:19 INFO  TestCases:44 - tapping on: ExpandableLists
+2018-12-21 15:29:20 DEBUG MainMenuLocators:23 - Searching forCustomAdapter in csv data collection
+2018-12-21 15:29:20 INFO  TestCases:50 - tapping on: CustomAdapter
+2018-12-21 15:29:20 DEBUG MainMenuLocators:23 - Searching forPeopleNames in csv data collection
+2018-12-21 15:29:21 INFO  TestCases:56 - tapping on: PeopleNames
+2018-12-21 15:29:25 DEBUG TestCases:60 - true
+2018-12-23 17:36:58 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:36:59 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:36:59 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:36:59 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:36:59 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:36:59 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:36:59 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:36:59 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:37:23 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:37:23 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:37:23 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:37:23 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:37:23 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: xpath Locator: 
+2018-12-23 17:37:23 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:37:23 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:37:23 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:37:23 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:37:23 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:37:23 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:37:23 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:37:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: xpath Locator: 
+2018-12-23 17:37:23 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:37:23 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:37:24 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:37:24 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:37:24 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-23 17:37:25 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-23 17:37:26 INFO  TestCases:44 - tapping on: ExpandableLists
+2018-12-23 17:37:26 INFO  TestCases:44 - tapping on: ExpandableLists
+2018-12-23 17:37:26 DEBUG MainMenuLocators:23 - Searching forCustomAdapter in csv data collection
+2018-12-23 17:37:27 INFO  TestCases:50 - tapping on: CustomAdapter
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:37:27 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:37:27 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:37:27 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:37:27 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:37:28 DEBUG MainMenuLocators:23 - Searching forPeopleNames in csv data collection
+2018-12-23 17:37:29 INFO  TestCases:56 - tapping on: PeopleNames
+2018-12-23 17:37:32 DEBUG TestCases:60 - true
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:37:32 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:37:32 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:37:32 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:37:32 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:37:47 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:37:47 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:37:47 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:37:47 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:37:47 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: xpath Locator: 
+2018-12-23 17:37:47 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:37:47 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:37:47 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:37:47 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:37:47 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:37:47 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:37:47 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:37:47 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: xpath Locator: 
+2018-12-23 17:37:47 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:37:47 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:37:48 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:37:48 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:37:48 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:37:49 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:37:50 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:37:50 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:37:50 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:37:50 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:38:52 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:38:52 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:38:52 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:38:52 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:39:44 ERROR TestCases:32 - [Ljava.lang.StackTraceElement;@fd07cbb
+org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'DESKTOP-P15U173', ip: '192.168.77.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor.lambda$2(AppiumCommandExecutor.java:243)
+	at java.util.Optional.orElseGet(Unknown Source)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:242)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:207)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:130)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:38)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:84)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:94)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:93)
+	at com.ben.mobile.automation.appium_automation.mobile.android.AndroidDevice.getAndroidDriver(AndroidDevice.java:37)
+	at com.ben.mobile.automation.appium_automation.demoApi.TestCases.<init>(TestCases.java:25)
+	at com.ben.mobile.automation.appium_automation.AndroidDemoApiTests.init(AndroidDemoApiTests.java:16)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.java:125)
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:238)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:158)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:256)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:134)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:113)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:105)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:185)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:209)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)
+	... 36 more
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:39:56 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:39:56 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:39:56 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:39:56 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:40:10 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:40:10 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:40:10 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:40:10 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:40:10 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:40:10 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 17:40:10 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:40:10 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:40:11 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:40:11 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:40:13 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:40:13 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:40:14 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:51:54 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:51:54 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:51:54 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:51:54 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:52:09 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:52:09 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:52:09 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:52:09 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:52:09 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:52:09 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 17:52:09 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:52:09 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:52:10 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:52:11 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:52:12 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:52:13 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:52:13 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:52:48 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:52:48 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:52:48 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:52:48 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:53:02 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:53:02 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:53:02 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:53:02 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:53:02 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:53:02 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 17:53:02 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:53:02 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:53:03 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:53:03 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:53:05 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:53:05 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:53:06 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:54:48 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:54:48 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:54:48 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:54:48 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:55:03 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:55:03 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:55:03 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:55:03 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:55:03 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:55:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 17:55:03 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:55:03 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:55:03 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:55:04 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:55:05 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:55:06 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:55:07 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 17:55:08 INFO  TestCases:77 - main hour xpath:  //android.widget.TextView[@content-desc='12']
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:56:10 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:56:10 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:56:10 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:56:10 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:56:23 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:56:23 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:56:23 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:56:23 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:56:23 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:56:23 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 17:56:23 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:56:23 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:56:24 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:56:24 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:56:25 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:56:26 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:56:27 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 17:56:29 INFO  TestCases:77 - main hour xpath:  //android.widget.TextView[@content-desc='12']
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:57:14 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:57:14 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:57:14 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:57:14 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:57:28 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:57:28 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:57:28 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:57:28 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:57:28 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:57:28 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 17:57:28 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:57:28 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:57:28 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:57:30 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:57:30 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:57:30 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:57:32 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 17:57:33 INFO  TestCases:77 - main hour xpath:  //android.widget.TextView[@content-desc='12']
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 17:59:07 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 17:59:07 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 17:59:07 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 17:59:07 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 17:59:20 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 17:59:20 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 17:59:20 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 17:59:20 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 17:59:20 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 17:59:20 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 17:59:20 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 17:59:20 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 17:59:20 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 17:59:20 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 17:59:22 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 17:59:22 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 17:59:23 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 17:59:24 INFO  TestCases:77 - main hour xpath:  //android.widget.TextView[@content-desc='12']
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 21:43:35 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 21:43:35 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 21:43:35 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 21:43:35 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 21:43:54 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 21:43:59 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 21:43:59 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 21:43:59 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 21:43:59 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 21:43:59 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 21:43:59 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 21:44:24 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 21:44:24 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 21:44:32 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-23 21:44:32 INFO  TestCases:44 - tapping on: ExpandableLists
+2018-12-23 21:44:43 DEBUG MainMenuLocators:23 - Searching forCustomAdapter in csv data collection
+2018-12-23 21:44:43 INFO  TestCases:50 - tapping on: CustomAdapter
+2018-12-23 21:44:53 DEBUG MainMenuLocators:23 - Searching forPeopleNames in csv data collection
+2018-12-23 21:44:53 INFO  TestCases:56 - tapping on: PeopleNames
+2018-12-23 21:44:57 DEBUG TestCases:60 - true
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 21:45:01 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 21:45:01 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 21:45:01 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 21:45:01 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 21:45:16 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 21:45:22 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 21:45:22 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 21:45:22 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 21:45:22 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 21:45:22 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 21:45:22 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 21:45:36 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 21:45:36 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 21:45:42 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 21:45:43 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 21:45:50 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 21:45:50 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 21:45:53 INFO  TestCases:78 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-23 21:45:53 INFO  TestCases:79 - Displayer / Found : true
+2018-12-23 21:45:54 INFO  TestCases:83 - new hour xpath:  //android.widget.TextView[@content-desc='4']
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 21:46:41 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 21:46:41 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 21:46:41 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 21:46:41 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 21:46:58 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 21:46:58 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 21:46:58 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 21:46:58 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 21:46:58 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 21:46:58 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 21:46:58 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 21:46:58 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 21:46:59 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 21:47:01 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 21:47:01 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 21:47:02 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 21:47:03 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 21:47:05 INFO  TestCases:78 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-23 21:47:05 INFO  TestCases:79 - Displayer / Found : true
+2018-12-23 21:47:05 INFO  TestCases:83 - new hour xpath:  //android.widget.TextView[@content-desc='4']
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 21:49:58 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 21:49:58 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 21:49:58 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 21:49:58 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 21:50:15 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 21:50:15 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 21:50:15 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 21:50:15 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 21:50:15 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 21:50:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 21:50:15 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 21:50:15 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 21:50:15 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 21:50:15 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 21:50:17 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 21:50:19 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 21:50:19 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 21:50:19 INFO  TestCases:78 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-23 21:50:20 DEBUG TestCases:79 - 12 Displayer / Found : true
+2018-12-23 21:50:21 INFO  TestCases:83 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='4']
+2018-12-23 21:50:21 DEBUG TestCases:84 - 4 Displayer / Found : true
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 21:51:47 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 21:51:47 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 21:51:47 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 21:51:47 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 21:52:03 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 21:52:03 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 21:52:03 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 21:52:03 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 21:52:03 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 21:52:03 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 21:52:03 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 21:52:03 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 21:52:04 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 21:52:04 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 21:52:05 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 21:52:07 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 21:52:07 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 21:52:09 INFO  TestCases:78 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-23 21:52:09 DEBUG TestCases:79 - 12 Displayer / Found : true
+2018-12-23 21:52:09 INFO  TestCases:83 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='4']
+2018-12-23 21:52:10 DEBUG TestCases:84 - 4 Displayer / Found : true
+2018-12-23 21:52:10 INFO  TestCases:86 - Swapping from 12 to 4
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 22:16:57 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 22:16:57 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 22:16:57 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 22:16:57 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 22:17:15 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 22:17:15 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 22:17:15 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 22:17:15 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 22:17:15 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 22:17:15 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 22:17:15 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 22:18:33 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 22:18:33 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 22:18:33 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 22:18:33 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 22:18:49 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 22:18:49 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 22:18:49 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 22:18:49 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 22:18:49 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 22:18:49 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 22:18:49 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 22:18:49 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 22:18:49 INFO  TestCases:39 - Clicking on: Views
+2018-12-23 22:18:49 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 22:18:51 INFO  TestCases:64 - tapping on: DateWidgets
+2018-12-23 22:18:51 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 22:18:53 INFO  TestCases:70 - tapping on: InlineClock
+2018-12-23 22:18:54 INFO  TestCases:79 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-23 22:18:54 DEBUG TestCases:80 - 12 Displayer / Found : true
+2018-12-23 22:18:55 INFO  TestCases:84 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='4']
+2018-12-23 22:18:55 DEBUG TestCases:85 - 4 Displayed / Found : true
+2018-12-23 22:18:55 INFO  TestCases:87 - Swapping from 12 to 4
+2018-12-23 22:18:58 DEBUG TestCases:91 - 15 selected : true
+2018-12-23 22:18:58 DEBUG TestCases:94 - 35 displayed : true
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-23 22:32:39 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-23 22:32:39 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-23 22:32:39 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-23 22:32:39 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-23 22:32:55 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-23 22:32:55 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-23 22:32:55 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-23 22:32:55 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-23 22:32:55 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-23 22:32:55 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-23 22:32:55 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-23 22:32:55 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-23 22:32:56 INFO  TestCases:40 - Clicking on: Views
+2018-12-23 22:32:57 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-23 22:32:58 INFO  TestCases:65 - tapping on: DateWidgets
+2018-12-23 22:33:00 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-23 22:33:00 INFO  TestCases:71 - tapping on: InlineClock
+2018-12-23 22:33:01 INFO  TestCases:80 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-23 22:33:02 DEBUG TestCases:81 - 12 Displayer / Found : true
+2018-12-23 22:33:02 INFO  TestCases:85 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='4']
+2018-12-23 22:33:02 DEBUG TestCases:86 - 4 Displayed / Found : true
+2018-12-23 22:33:02 INFO  TestCases:88 - Swapping from 12 to 4
+2018-12-23 22:33:05 DEBUG TestCases:92 - 15 selected : true
+2018-12-23 22:33:05 DEBUG TestCases:95 - 35 displayed : true
+2018-12-23 22:33:07 DEBUG TestCases:103 - Clock Displaying 4:35
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-24 12:23:19 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-24 12:23:19 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-24 12:23:19 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-24 12:23:19 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-24 12:23:37 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-24 12:23:37 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-24 12:23:37 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-24 12:23:37 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-24 12:23:37 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-24 12:23:37 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-24 12:23:37 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-24 12:23:37 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-24 12:23:37 INFO  TestCases:40 - Clicking on: Views
+2018-12-24 12:23:39 DEBUG MainMenuLocators:23 - Searching forExpandableLists in csv data collection
+2018-12-24 12:23:39 INFO  TestCases:45 - tapping on: ExpandableLists
+2018-12-24 12:23:40 DEBUG MainMenuLocators:23 - Searching forCustomAdapter in csv data collection
+2018-12-24 12:23:41 INFO  TestCases:51 - tapping on: CustomAdapter
+2018-12-24 12:23:42 DEBUG MainMenuLocators:23 - Searching forPeopleNames in csv data collection
+2018-12-24 12:23:42 INFO  TestCases:57 - tapping on: PeopleNames
+2018-12-24 12:23:46 DEBUG TestCases:61 - true
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-24 12:23:46 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-24 12:23:46 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-24 12:23:46 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-24 12:23:46 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-24 12:24:01 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-24 12:24:01 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-24 12:24:01 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-24 12:24:01 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-24 12:24:01 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-24 12:24:01 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-24 12:24:01 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-24 12:24:01 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-24 12:24:01 INFO  TestCases:40 - Clicking on: Views
+2018-12-24 12:24:01 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-24 12:24:03 INFO  TestCases:65 - tapping on: DateWidgets
+2018-12-24 12:24:05 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-24 12:24:05 INFO  TestCases:71 - tapping on: InlineClock
+2018-12-24 12:24:07 INFO  TestCases:80 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-24 12:24:07 DEBUG TestCases:81 - 12 Displayer / Found : true
+2018-12-24 12:24:07 INFO  TestCases:85 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='4']
+2018-12-24 12:24:07 DEBUG TestCases:86 - 4 Displayed / Found : true
+2018-12-24 12:24:08 INFO  TestCases:88 - Swapping from 12 to 4
+2018-12-24 12:24:10 DEBUG TestCases:92 - 15 selected : true
+2018-12-24 12:24:10 DEBUG TestCases:95 - 35 displayed : true
+2018-12-24 12:24:13 DEBUG TestCases:103 - Clock Displaying 4:35
+2018-12-24 12:24:13 INFO  TestCases:80 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-24 12:25:36 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-24 12:25:36 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-24 12:25:36 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-24 12:25:36 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-24 12:25:52 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-24 12:25:52 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-24 12:25:52 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-24 12:25:52 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-24 12:25:52 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-24 12:25:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-24 12:25:52 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-24 12:25:52 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-24 12:25:53 INFO  TestCases:40 - Clicking on: Views
+2018-12-24 12:25:53 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-24 12:25:55 INFO  TestCases:65 - tapping on: DateWidgets
+2018-12-24 12:25:56 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-24 12:25:56 INFO  TestCases:71 - tapping on: InlineClock
+2018-12-24 12:25:58 INFO  TestCases:80 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-24 12:25:58 DEBUG TestCases:81 - 12 Displayer / Found : true
+2018-12-24 12:25:58 INFO  TestCases:85 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='4']
+2018-12-24 12:25:59 DEBUG TestCases:86 - 4 Displayed / Found : true
+2018-12-24 12:25:59 INFO  TestCases:88 - Swapping from 12 to 4
+2018-12-24 12:26:01 DEBUG TestCases:92 - 15 selected : true
+2018-12-24 12:26:02 DEBUG TestCases:95 - 35 displayed : true
+2018-12-24 12:26:04 DEBUG TestCases:103 - Clock Displaying 4:35
+2018-12-24 12:26:05 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-24 12:26:05 INFO  TestCases:71 - tapping on: InlineClock
+2018-12-24 12:26:07 INFO  TestCases:80 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-24 12:26:07 DEBUG TestCases:81 - 12 Displayer / Found : true
+2018-12-24 12:26:07 INFO  TestCases:85 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='9']
+2018-12-24 12:26:07 DEBUG TestCases:86 - 9 Displayed / Found : true
+2018-12-24 12:26:07 INFO  TestCases:88 - Swapping from 12 to 9
+2018-12-24 12:26:09 DEBUG TestCases:92 - 15 selected : true
+2018-12-24 12:26:10 DEBUG TestCases:95 - 5 displayed : true
+2018-12-24 12:26:12 DEBUG TestCases:103 - Clock Displaying 9:05
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:20 - Config key: APPLICATION_NAME
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:23 - Config Value: ApiDemos-debug.apk
+2018-12-24 12:29:36 DEBUG ApplicationPackageHandler:16 - Applicaion Name File Name: ApiDemos-debug.apk
+2018-12-24 12:29:36 DEBUG ApplicationPackageHandler:22 - Absolute Path of File: ApiDemos-debug.apk
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:20 - Config key: DEVICE_NAME
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:23 - Config Value: Pixel_XL_API_28
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:20 - Config key: PLATFORM_VERSION
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:23 - Config Value: 9.0
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:20 - Config key: AUTOMATION_NAME
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:23 - Config Value: UiAutomator2
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:20 - Config key: UDID
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:23 - Config Value: emulator-5554
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:30 - Loading Property File...
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:20 - Config key: APPIUM_SERVER_URL
+2018-12-24 12:29:36 DEBUG ConfigurationHandler:23 - Config Value: http://localhost:4723/wd/hub
+2018-12-24 12:29:36 DEBUG AndroidDevice:36 - Url set to: http://localhost:4723/wd/hub
+2018-12-24 12:29:52 DEBUG AndroidDevice:38 - Android Driver Set with Capabilities
+2018-12-24 12:29:52 DEBUG CSVFileHandler:24 - Getting src Folder
+2018-12-24 12:29:52 DEBUG CSVFileHandler:26 - Loading locators Folder
+2018-12-24 12:29:52 DEBUG CSVFileHandler:28 - loading File: MainMenuLocators.csv
+2018-12-24 12:29:52 DEBUG CSVFileHandler:37 - Reading Data From: MainMenuLocators.csv
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: Name Finder: Locator Locator: Finder
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: ActionSheets Finder: Action Sheets Locator: name
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: Sliders Finder: Sliders Locator: name
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: TextView Finder: Text View Locator: name
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: Switches Finder: Switches Locator: name
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: Views Finder: //android.widget.TextView[@text='Views'] Locator: xpath
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: ExpandableLists Finder: //android.widget.TextView[@text='Expandable Lists'] Locator: xpath
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: CustomAdapter Finder: //android.widget.TextView[@text='1. Custom Adapter'] Locator: xpath
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: PeopleNames Finder: //android.widget.TextView[@text='People Names'] Locator: xpath
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: DateWidgets Finder: //android.widget.TextView[@text='Date Widgets'] Locator: xpath
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: TwelveHour Finder: //android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)'] Locator: xpath
+2018-12-24 12:29:52 DEBUG CSVFileHandler:44 - UIElement Added: Name: InlineClock Finder: //android.widget.TextView[@text='2. Inline'] Locator: xpath
+2018-12-24 12:29:52 DEBUG MainMenuLocators:19 - Reading Data from MainMenuLocators.csv
+2018-12-24 12:29:52 DEBUG MainMenuLocators:23 - Searching forViews in csv data collection
+2018-12-24 12:29:53 INFO  TestCases:40 - Clicking on: Views
+2018-12-24 12:29:53 DEBUG MainMenuLocators:23 - Searching forDateWidgets in csv data collection
+2018-12-24 12:29:54 INFO  TestCases:65 - tapping on: DateWidgets
+2018-12-24 12:29:55 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-24 12:29:56 INFO  TestCases:71 - tapping on: InlineClock
+2018-12-24 12:29:56 INFO  TestCases:80 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-24 12:29:58 DEBUG TestCases:81 - 12 Displayer / Found : true
+2018-12-24 12:29:58 INFO  TestCases:85 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='4']
+2018-12-24 12:29:58 DEBUG TestCases:86 - 4 Displayed / Found : true
+2018-12-24 12:29:58 INFO  TestCases:88 - Swapping from 12 to 4
+2018-12-24 12:30:01 DEBUG TestCases:92 - 15 selected : true
+2018-12-24 12:30:02 DEBUG TestCases:95 - 35 displayed : true
+2018-12-24 12:30:03 DEBUG TestCases:103 - Clock Displaying 4:35
+2018-12-24 12:30:05 DEBUG MainMenuLocators:23 - Searching forInlineClock in csv data collection
+2018-12-24 12:30:05 INFO  TestCases:71 - tapping on: InlineClock
+2018-12-24 12:30:05 INFO  TestCases:80 - main hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='12']
+2018-12-24 12:30:06 DEBUG TestCases:81 - 12 Displayer / Found : true
+2018-12-24 12:30:06 INFO  TestCases:85 - new hour xpath:  //android.widget.RadialTimePickerView.RadialPickerTouchHelper[@content-desc='9']
+2018-12-24 12:30:07 DEBUG TestCases:86 - 9 Displayed / Found : true
+2018-12-24 12:30:07 INFO  TestCases:88 - Swapping from 12 to 9
+2018-12-24 12:30:09 DEBUG TestCases:92 - 15 selected : true
+2018-12-24 12:30:09 DEBUG TestCases:95 - 5 displayed : true
+2018-12-24 12:30:11 DEBUG TestCases:103 - Clock Displaying 9:05
+2018-12-24 12:30:11 DEBUG TestCases:108 - min to string=05

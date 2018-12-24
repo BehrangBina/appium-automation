@@ -3,3 +3,10 @@ ActionSheets,name,Action Sheets
 Sliders,name,Sliders
 TextView,name,Text View
 Switches,name,Switches
+Views,xpath,//android.widget.TextView[@text='Views']
+ExpandableLists,xpath,//android.widget.TextView[@text='Expandable Lists']
+CustomAdapter,xpath,//android.widget.TextView[@text='1. Custom Adapter']
+PeopleNames,xpath,//android.widget.TextView[@text='People Names']
+DateWidgets,xpath,//android.widget.TextView[@text='Date Widgets']
+TwelveHour,xpath,//android.widget.TextView[@text='CHANGE THE TIME (12 HOUR)']
+InlineClock,xpath,//android.widget.TextView[@text='2. Inline']

@@ -6,6 +6,8 @@ import com.ben.mobile.automation.appium_automation.UICatalog.PageLocators.MainMe
 import com.ben.mobile.automation.appium_automation.UICatalog.PageLocators.MainMenuLocators.MainMenuObjects; 
 import com.ben.mobile.automation.appium_automation.mobile.UIElement;
 import com.ben.mobile.automation.appium_automation.mobile.ios.IOSDevice;
+
+import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.ios.IOSDriver;
 import io.appium.java_client.ios.IOSElement;
 
@@ -50,6 +52,7 @@ public class MainMenuPage {
 	public void scrollToMainMenuObject(UIElement uiElement) {
 		ios.scrollElementToView(uiElement);
 	}
+
 	public void goBack() {
 		ios.goBack();
 	}

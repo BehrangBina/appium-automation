@@ -29,6 +29,6 @@ public class MainMenuLocators {
 		return as;
 	}
 	public enum MainMenuObjects{
-		ActionSheets,Sliders,TextView,Switches
+		ActionSheets,Sliders,TextView,Switches,Views,ExpandableLists,CustomAdapter,PeopleNames,DateWidgets,TwelveHour,InlineClock
 	}
 }
